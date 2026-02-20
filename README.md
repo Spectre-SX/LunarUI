@@ -22,3 +22,4 @@ It’s not bloated.
 It just works.
 
 **LunarUI. Build clean. Ship fast. 🌙**
+![LunarUI Preview](media/preview1.png)
